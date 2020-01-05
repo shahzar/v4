@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Shahzar Ahmed | Software Engineer',
   siteDescription:
-    ' Shahzar Ahmed is a software engineer based in Dubai, U.A.E specializing in development & design of Android Mobile applications and Backend development.',
+    'Shahzar Ahmed is a software engineer based in Dubai, U.A.E specializing in development & design of Android Mobile applications and Backend development.',
   siteKeywords:
     'Shahzar Ahmed, Shahzar, Ahmed, software engineer, mobile developer, android developer, javascript, dubai',
-  siteUrl: '',
+  siteUrl: 'https://brittanychiang.com/',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
