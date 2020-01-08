@@ -128,7 +128,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <p>Website Design Credits:</p>
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div>All thanks to Brittany Chiang for Design &amp; Build!</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
