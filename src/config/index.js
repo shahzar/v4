@@ -6,7 +6,7 @@ module.exports = {
     'Shahzar Ahmed, Shahzar, Ahmed, software engineer, mobile developer, android developer, javascript, dubai',
   siteUrl: 'https://shahzar.dev/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'UA-156003442-1',
   googleVerification: '',
   name: 'Shahzar Ahmed',
   location: 'Dubai, UAE',
