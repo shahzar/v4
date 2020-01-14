@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-Simple offline-first Android application developed for HackerEarth PayU Android Challenge.
+2Fils lets you handle the 2-fils/minute internet plan easily & check balance for Etisalat users.
