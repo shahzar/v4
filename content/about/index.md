@@ -8,10 +8,8 @@ skills:
   - MVP / MVVM
   - Clean Architecture
   - JavaScript (ES6+)
-  - Node.js
-  - Express
-  - PHP7
-  - Phalcon
+  - Node.js (Express)
+  - PHP7 (Phalcon)
 ---
 
 Hi! I'm Shahzar, a software engineer based in Dubai, UAE, focused on mobile application developement for the Android platform, along with backend development using Node.js.
