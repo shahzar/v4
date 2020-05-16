@@ -3,7 +3,7 @@ date: '2017-12-01'
 title: 'Mobile Application Developer'
 company: 'Pandre Group'
 location: 'Dubai, UAE'
-range: 'DEC 2017 - Present'
+range: 'DEC 2017 - FEB 2020'
 url: ''
 ---
 
