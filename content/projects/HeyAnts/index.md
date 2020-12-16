@@ -2,7 +2,7 @@
 date: '3'
 title: 'HeyAnts'
 cover: './heyants.png'
-external: 'https://play.google.com/store/apps/details?id=com.hey.ants'
+external: 'https://m.apkpure.com/hey-ants/com.hey.ants'
 tech:
   - MVP
   - Dagger2

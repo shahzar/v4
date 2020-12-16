@@ -2,7 +2,7 @@
 date: '1'
 title: 'Mixxlist'
 cover: './mixxlist.png'
-external: 'http://mixxlist.com'
+external: 'https://apkpure.com/mixxlist-combine-youtube-soundcloud-and-more/com.pd.mixxlist'
 tech:
   - MVP
   - Services
