@@ -1,0 +1,4 @@
+# Proxy /blog/* to the dedicated blog Netlify site.
+# Status 200 keeps the URL bar at shahzar.dev/blog/* (transparent proxy, not a 301 redirect).
+# The blog site's own _redirects rewrites the /blog prefix internally to serve from its dist/.
+/blog/*  https://shahzar-blog.netlify.app/blog/:splat  200
