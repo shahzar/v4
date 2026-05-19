@@ -1,19 +1,19 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './me.png'
 skills:
+  - Kotlin Multiplatform
   - Kotlin
-  - Java
+  - Compose Multiplatform
+  - Jetpack Compose
+  - Swift / SwiftUI
+  - Coroutines & Flow
   - Android SDK
-  - MVP / MVVM
   - Clean Architecture
-  - JavaScript (ES6+)
-  - Node.js (Express)
-  - PHP7 (Phalcon)
 ---
 
-Hi! I'm Shahzar, a software engineer based in Dubai, UAE, focused on mobile application developement for the Android platform, along with backend development using Node.js.
+Hi! I'm Shahzar, a software engineer based in Dubai, UAE, currently a Senior Mobile Engineer at [ENOC](https://www.enoc.com/), building cross-platform mobile apps with Kotlin Multiplatform across Android and iOS.
 
-I'm a big fan of Android and linux, also an advocate of Open Source Software (FOSS).
+I also [write occasionally](/blog/) about mobile platforms and the friction of shipping production apps.
 
 Here are a few technologies I've been working with recently:
