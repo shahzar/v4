@@ -44,6 +44,7 @@ module.exports = {
     {
       name: 'Blog',
       url: '/blog/',
+      external: true,
     },
     {
       name: 'Contact',

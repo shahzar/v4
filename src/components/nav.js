@@ -277,12 +277,18 @@ class Nav extends Component {
               <TransitionGroup component={null}>
                 {isMounted &&
                   navLinks &&
-                  navLinks.map(({ url, name }, i) => (
+                  navLinks.map(({ url, name, external }, i) => (
                     <CSSTransition key={i} classNames={fadeDownClass} timeout={timeout}>
                       <StyledListItem
                         key={i}
                         style={{ transitionDelay: `${isHome ? i * 100 : 0}ms` }}>
-                        <StyledListLink to={url}>{name}</StyledListLink>
+                        {external ? (
+                          <StyledListLink as="a" href={url}>
+                            {name}
+                          </StyledListLink>
+                        ) : (
+                          <StyledListLink to={url}>{name}</StyledListLink>
+                        )}
                       </StyledListItem>
                     </CSSTransition>
                   ))}
